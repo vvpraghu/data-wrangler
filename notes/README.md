@@ -8,7 +8,7 @@
  * “FromTextTool”.java in org.apache.avro.tool (avrotools)
 *	XML -> Avro: 
  * [Click here for Java open-source](https://github.com/stealthly/xml-avro)
-###	Parquet (columnar storage, nested data structure):
+#### Parquet (columnar storage, nested data structure):
 
 *	Avro -> Parquet (Non-hadoop writer): [Available through avrotools](http://blog.cloudera.com/blog/2014/05/how-to-convert-existing-data-into-parquet/)
 * Kite-CLI: nfers CSV/JSON schema, and creates parquet format using Hive table 
