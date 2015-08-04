@@ -11,6 +11,7 @@
  * [Click here for Java open-source](https://github.com/stealthly/xml-avro)
 
 ### Parquet (columnar storage, nested data structure):
+(https://raw.github.com/Parquet/parquet-format/master/doc/images/FileLayout.gif)
 *	Avro -> Parquet (Non-hadoop writer): [Available through avrotools](http://blog.cloudera.com/blog/2014/05/how-to-convert-existing-data-into-parquet/)
 * Kite-CLI: nfers CSV/JSON schema, and creates parquet format using Hive table 
  * Might allow non-hadoop installation?
